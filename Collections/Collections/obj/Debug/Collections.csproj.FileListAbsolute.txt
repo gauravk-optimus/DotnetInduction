@@ -1,0 +1,6 @@
+c:\users\optimus32\documents\visual studio 2015\Projects\Collections\Collections\bin\Debug\Collections.exe.config
+c:\users\optimus32\documents\visual studio 2015\Projects\Collections\Collections\bin\Debug\Collections.exe
+c:\users\optimus32\documents\visual studio 2015\Projects\Collections\Collections\bin\Debug\Collections.pdb
+c:\users\optimus32\documents\visual studio 2015\Projects\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+c:\users\optimus32\documents\visual studio 2015\Projects\Collections\Collections\obj\Debug\Collections.exe
+c:\users\optimus32\documents\visual studio 2015\Projects\Collections\Collections\obj\Debug\Collections.pdb
