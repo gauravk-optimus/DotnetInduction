@@ -1,0 +1,6 @@
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Advanced concepts\Advanced concepts\bin\Debug\Advanced concepts.exe.config
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Advanced concepts\Advanced concepts\bin\Debug\Advanced concepts.exe
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Advanced concepts\Advanced concepts\bin\Debug\Advanced concepts.pdb
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Advanced concepts\Advanced concepts\obj\Debug\Advanced concepts.csprojResolveAssemblyReference.cache
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Advanced concepts\Advanced concepts\obj\Debug\Advanced concepts.exe
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Advanced concepts\Advanced concepts\obj\Debug\Advanced concepts.pdb

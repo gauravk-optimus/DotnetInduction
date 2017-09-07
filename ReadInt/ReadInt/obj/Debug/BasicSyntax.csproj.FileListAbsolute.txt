@@ -1,0 +1,4 @@
+C:\Users\Gaurav Sharma\Documents\Visual Studio 2015\Projects\ReadInt\ReadInt\obj\Debug\ReadInt.exe
+C:\Users\Gaurav Sharma\Documents\Visual Studio 2015\Projects\ReadInt\ReadInt\obj\Debug\ReadInt.pdb
+C:\Users\Gaurav Sharma\Documents\Visual Studio 2015\Projects\ReadInt\ReadInt\bin\Debug\ReadInt.exe.config
+C:\Users\Gaurav Sharma\Documents\Visual Studio 2015\Projects\ReadInt\ReadInt\obj\Debug\BasicSyntax.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignments\Assignments\bin\Debug\Assignments.exe.config
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignments\Assignments\bin\Debug\Assignments.exe
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignments\Assignments\bin\Debug\Assignments.pdb
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignments\Assignments\obj\Debug\Assignments.csprojResolveAssemblyReference.cache
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignments\Assignments\obj\Debug\Assignments.exe
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignments\Assignments\obj\Debug\Assignments.pdb
