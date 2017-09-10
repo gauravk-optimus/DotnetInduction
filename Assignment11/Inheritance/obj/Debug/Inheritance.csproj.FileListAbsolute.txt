@@ -1,0 +1,6 @@
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignment11\Inheritance\bin\Debug\Inheritance.exe.config
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignment11\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignment11\Inheritance\bin\Debug\Inheritance.exe
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignment11\Inheritance\bin\Debug\Inheritance.pdb
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignment11\Inheritance\obj\Debug\Inheritance.exe
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignment11\Inheritance\obj\Debug\Inheritance.pdb
