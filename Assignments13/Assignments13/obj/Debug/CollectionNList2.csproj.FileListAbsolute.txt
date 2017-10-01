@@ -1,0 +1,6 @@
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignments13\Assignments13\obj\Debug\CollectionNList2.csprojResolveAssemblyReference.cache
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignments13\Assignments13\bin\Debug\Assignments13.exe.config
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignments13\Assignments13\bin\Debug\Assignments13.exe
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignments13\Assignments13\bin\Debug\Assignments13.pdb
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignments13\Assignments13\obj\Debug\Assignments13.exe
+c:\users\gaurav sharma\documents\visual studio 2015\Projects\Assignments13\Assignments13\obj\Debug\Assignments13.pdb
